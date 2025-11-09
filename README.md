@@ -95,13 +95,26 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**Gemini Robotics: Bringing AI into the Physical World**](https://arxiv.org/pdf/2503.20020) | Technical report | - | - |
+| [**MolmoAct: Action Reasoning Models that can Reason in Space**](https://arxiv.org/pdf/2508.07917) | Technical report | [Page](https://allenai.org/blog/molmoact) | [Github](https://github.com/allenai/MolmoAct) |
+| [**ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**](https://arxiv.org/pdf/2505.21906) | NeurIPS 2025 | [Page](https://chatvla-2.github.io/) | - |
+| [**Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning**](https://arxiv.org/pdf/2503.15558) | Technical report | [Page](https://research.nvidia.com/labs/dir/cosmos-reason1/) | [Github](https://github.com/nvidia-cosmos/cosmos-reason1) |
+| [**SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**](https://arxiv.org/pdf/2504.20024) | NeurIPS 2025 | [Page](https://spatial-reasoner.github.io/) | [Github](https://github.com/johnson111788/SpatialReasoner) |
+| [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) | NeurIPS 2025 | [Page](https://zhoues.github.io/RoboRefer/) | [Github](https://github.com/Zhoues/RoboRefer) |
+| [**Magma: A Foundation Model for Multimodal AI Agents**](https://www.arxiv.org/pdf/2502.13130) | CVPR 2025 | [Page](https://microsoft.github.io/Magma/) | [Github](https://github.com/microsoft/Magma) |
+| [**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**](https://arxiv.org/pdf/2502.21257) | CVPR 2025 | [Page](https://superrobobrain.github.io/) | [Github](https://github.com/FlagOpen/RoboBrain) |
+| [**RoboBrain 2.0 Technical Report**](https://arxiv.org/pdf/2507.02029) | Technical report | [Page](https://superrobobrain.github.io/) | [Github](https://github.com/FlagOpen/RoboBrain2.0) |
+| [**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**](https://arxiv.org/pdf/2510.11027) | Arxiv | [Page](https://internvl.github.io/blog/2025-10-11-Vlaser/) | [Github](https://github.com/OpenGVLab/Vlaser) |
+| [**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**](https://arxiv.org/pdf/2508.13998) | Arxiv | [Page](https://embodied-r1.github.io/) | [Github](https://github.com/pickxiguapi/Embodied-R1) |
 | [**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**](https://arxiv.org/pdf/2503.08481) | CVPR 2025 | - | [Github](https://github.com/unira-zwj/PhysVLM?tab=readme-ov-file) |
 | [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | ICRA 2025 | [Page](https://nvidia-ai-iot.github.io/remembr/) | [Github](https://github.com/NVIDIA-AI-IOT/remembr) |
-| [**Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning**](https://arxiv.org/pdf/2503.15558) | Technical report | [Page](https://research.nvidia.com/labs/dir/cosmos-reason1/) | [Github](https://github.com/nvidia-cosmos/cosmos-reason1) |
+| [**InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning**](https://zifuwan.github.io/InstructPart/static/pdfs/ACL_2025_InstructPart.pdf) | ACL 2025 | [Page](https://zifuwan.github.io/InstructPart/) | [Github](https://github.com/zifuwan/InstructPart/tree/dataset) |
 | [**SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**](https://arxiv.org/pdf/2406.01584) | NeurIPS 2024 | [Page](https://www.anjiecheng.me/SpatialRGPT) | [Github](https://github.com/AnjieCheng/SpatialRGPT) |
 | [**Multi-modal Situated Reasoning in 3D Scenes**](https://arxiv.org/pdf/2409.02389) | NeurIPS 2024 | [Page](https://msr3d.github.io/) | [Github](https://github.com/MSR3D/MSR3D) |
 | [**EQA-MX: Embodied Question Answering using Multimodal Expression**](https://openreview.net/pdf?id=7gUrYE50Rb) | ICLR 2024 | - | [Github](https://github.com/mmiakashs/eqa-mx) |
 | [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://openreview.net/pdf?id=7gUrYE50Rb) | NeurIPS 2023 | [Page](https://embodiedgpt.github.io/) | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) |
+| [**Inner Monologue: Embodied Reasoning through Planning with Language Models**](https://arxiv.org/pdf/2207.05608) | CoRL 2022 | [Page](https://innermonologue.github.io/) | - |
+| [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://arxiv.org/pdf/2407.08693) | Arxiv | [Page](https://embodied-cot.github.io/) | [Github](https://github.com/MichalZawalski/embodied-CoT) |
 | [**Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/pdf/2505.08243) | Arxiv | [Page](https://ecot-lite.github.io/) | - |
 
 
