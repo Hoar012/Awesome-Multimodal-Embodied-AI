@@ -2,7 +2,7 @@
 
 This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning and robotics.
 
-Continuously updated🔥🔥.
+Continuously updating🔥🔥.
 <!-- <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
 </p>
@@ -72,10 +72,22 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**](https://arxiv.org/pdf/2505.12448?) | NeurIPS 2025 | [Page](https://yliu-cs.github.io/SSR/) | [Github](https://github.com/yliu-cs/SSR) |
+| [**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**](https://arxiv.org/pdf/2506.05285?) | NeurIPS 2025 | [Page](https://rayst3r.github.io/) | [Github](https://github.com/Duisterhof/rayst3r) |
+| [**AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies**](https://arxiv.org/pdf/2508.08113) | NeurIPS 2025 | [Page](https://aimbot-reticle.github.io/) | [Github](https://github.com/aimbot-reticle/openpi0-aimbot) |
+| [**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**](https://arxiv.org/pdf/2411.16537) | CVPR 2025 | [Page](https://chanh.ee/RoboSpatial/) | [Github](https://github.com/NVlabs/RoboSpatial) |
+| [**Do vision-language models represent space and how? evaluating spatial frame of reference under ambiguities**](https://arxiv.org/pdf/2410.17385) | ICLR 2025 | [Page](https://spatial-comfort.github.io/) | [Github](https://github.com/sled-group/COMFORT) |
+| [**Pre-training Auto-regressive Robotic Models with 4D Representations**](https://arxiv.org/pdf/2502.13142) | ICML 2025 | [Page](https://arm4r.github.io/) | [Github](https://github.com/Dantong88/arm4r) |
+| [**Hearing the Slide: Acoustic-Guided Constraint Learning for Fast Non-Prehensile Transport**](https://arxiv.org/pdf/2506.09169) | CASE 2025 | [Page](https://fast-non-prehensile.github.io/) | - |
+| [**Igniting VLMs toward the Embodied Space**](https://arxiv.org/pdf/2509.11766) | Arxiv | [Page](https://x2robot.com/en/research/68bc2cde8497d7f238dde690) | [Github](https://github.com/X-Square-Robot/wall-x) |
+| [**RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**](https://arxiv.org/pdf/2406.10721) | CoRL 2024 | [Page](https://robo-point.github.io/) | [Github](https://github.com/wentaoyuan/RoboPoint) |
+| [**SonicBoom: Contact Localization Using Array of Microphones**](https://arxiv.org/pdf/2412.09878) | RAL 2024 | [Page](https://iamlab-cmu.github.io/sonicboom/) | [Github](https://github.com/markmlee/vibrotactile_localization) |
 | [**RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models**](https://arxiv.org/pdf/2404.04929) | ICML 2024 | [Page](https://aopolin-lv.github.io/RoboMP2.github.io/) | [Github](https://github.com/aopolin-lv/RoboMP2) |
 | [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
 | [**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://arxiv.org/pdf/2312.16170) | CVPR 2024 | [Page](https://tai-wang.github.io/embodiedscan/) | [Github](https://github.com/InternRobotics/EmbodiedScan/tree/main) |
 | [**What’s Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://arxiv.org/pdf/2310.16035.pdf) | NeurIPS 2023 | [Page](https://web.stanford.edu/~joycj/projects/left_neurips_2023.html) | [Github](https://github.com/joyhsu0504/LEFT/tree/main) |
+| [**PACO: Parts and Attributes of Common Objects**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ramanathan_PACO_Parts_and_Attributes_of_Common_Objects_CVPR_2023_paper.pdf) | CVPR 2023 | - | [Github](https://github.com/facebookresearch/paco) |
+| [**Visuo-Acoustic Hand Pose and Contact Estimation**](https://arxiv.org/pdf/2508.00852) | Arxiv | - | - |
 | [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) | Arxiv | - | - |
 
 
