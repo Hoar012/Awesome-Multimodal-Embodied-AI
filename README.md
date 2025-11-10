@@ -109,6 +109,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**](https://arxiv.org/pdf/2503.08481) | CVPR 2025 | - | [Github](https://github.com/unira-zwj/PhysVLM?tab=readme-ov-file) |
 | [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | ICRA 2025 | [Page](https://nvidia-ai-iot.github.io/remembr/) | [Github](https://github.com/NVIDIA-AI-IOT/remembr) |
 | [**InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning**](https://zifuwan.github.io/InstructPart/static/pdfs/ACL_2025_InstructPart.pdf) | ACL 2025 | [Page](https://zifuwan.github.io/InstructPart/) | [Github](https://github.com/zifuwan/InstructPart/tree/dataset) |
+| [**RoboVQA: Multimodal Long-Horizon Reasoning for Robotics**](https://arxiv.org/pdf/2311.00899) | ICRA 2024 | [Page](https://robovqa.github.io/) | [Github](https://github.com/google-deepmind/robovqa) |
 | [**SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**](https://arxiv.org/pdf/2406.01584) | NeurIPS 2024 | [Page](https://www.anjiecheng.me/SpatialRGPT) | [Github](https://github.com/AnjieCheng/SpatialRGPT) |
 | [**Multi-modal Situated Reasoning in 3D Scenes**](https://arxiv.org/pdf/2409.02389) | NeurIPS 2024 | [Page](https://msr3d.github.io/) | [Github](https://github.com/MSR3D/MSR3D) |
 | [**EQA-MX: Embodied Question Answering using Multimodal Expression**](https://openreview.net/pdf?id=7gUrYE50Rb) | ICLR 2024 | - | [Github](https://github.com/mmiakashs/eqa-mx) |
@@ -118,35 +119,43 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/pdf/2505.08243) | Arxiv | [Page](https://ecot-lite.github.io/) | - |
 
 
-
 ## Planning
 
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**EMBODIEDBENCH: Comprehensive Benchmarking Multi-modal Large  Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) |
+| [**Embodied large language models enable robots to complete complex tasks in unpredictable environments**](https://www.nature.com/articles/s42256-025-01005-x.pdf) | Nature Machine Intelligence 2025 | - | - |
+| [**DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models**](https://arxiv.org/pdf/2404.03275) | ICRA 2025 | [Page](https://delta-llm.github.io/) | [Github](https://github.com/boschresearch/DELTA) |
+| [**MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents**](https://arxiv.org/pdf/2410.03450) | ICLR 2025 | - | - |
+| [**Multimodal LLM Guided Exploration and Active Mapping using Fisher Information**](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_Multimodal_LLM_Guided_Exploration_and_Active_Mapping_using_Fisher_Information_ICCV_2025_paper.pdf) | ICCV 2025 | - | - |
+| [**Open-World Planning via Lifted Regression with LLM-Inferred Affordances for Embodied Agents**](https://aclanthology.org/2025.acl-long.1018.pdf) | ACL 2025 | - | - |
+| [**Structured Preference Optimization for Vision-Language Long-Horizon Task Planning**](https://aclanthology.org/2025.emnlp-main.884.pdf) | EMNLP 2025 | - | - |
 | [**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**](https://arxiv.org/pdf/2506.22827) | RSS Workshop 2025 | [Page](https://vlp-humanoid.github.io/) | - |
 | [**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**](https://arxiv.org/pdf/2412.17288) | AAAI 2025 | [Page](https://twoongg.github.io/projects/flare/) | [Github](https://github.com/snumprlab/flare) |
+| [**Safe planner: Empowering safety awareness in large pre-trained models for robot task planning**](https://arxiv.org/pdf/2411.06920) | AAAI 2025 | [Page](https://sites.google.com/view/safeplanner) | - |
 | [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) | CoRL 2024 | [Page](https://pred-agent.github.io/) | [Github](https://github.com/snumprlab/pred) |
+| [**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**](https://ll3da.github.io/static/files/LL3DA__Visual_Interactive_Instruction_Tuning_for_Omni_3D_Understanding__Reasoning__and_Planning.pdf) | CVPR 2024 | [Page](https://ll3da.github.io/) | [Github](https://github.com/Open3DA/LL3DA) |
 | [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://peihaochen.github.io/files/publications/RILA.pdf) | CVPR 2024 | - | - |
+| [**Multimodal Procedural Planning via Dual Text-Image Prompting**](https://aclanthology.org/2024.findings-emnlp.641.pdf) | EMNLP 2024 | - | - |
+| [**Embodied Agent Interface: A Single Line to Evaluate LLMs for Embodied Decision Making**](https://arxiv.org/pdf/2410.07166) | NeurIPS 2024 | [Page](https://embodied-agent-interface.github.io/) | [Github](https://github.com/embodied-agent-interface/embodied-agent-interface) |
+| [**Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following**](https://arxiv.org/pdf/2509.08222) | NeurIPS 2024 | - | - |
+| [**Learning Adaptive Planning Representations with Natural Language Guidance**](https://arxiv.org/pdf/2312.08566.pdf) | ICLR 2024 | [Page](https://concepts-ai.com/p/ada/) | [Github](https://github.com/CatherineWong/llm-operators/) |
+| [**What Planning Problem Can A Relational Neural Network Solve**](https://arxiv.org/pdf/2312.03682.pdf) | NeurIPS 2023 | [Page](https://concepts-ai.com/p/goal-regression-width/) | [Github](https://github.com/concepts-ai/goal-regression-width) |
 | [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/pdf/2302.01560) | NeurIPS 2023 | [Page](http://www.craftjarvis.org/) | [Github](https://github.com/CraftJarvis/MC-Planner) |
-
-
-
+| [**Sayplan: Grounding large language models using 3d scene graphs for scalable robot task planning**](https://arxiv.org/pdf/2307.06135) | CoRL 2023 | [Page](https://sayplan.github.io/) | - |
+| [**Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**](https://grounded-decoding.github.io/paper.pdf) | NeurIPS 2023 | [Page](https://grounded-decoding.github.io/) | - |
+| [**Do Embodied Agents Dream of Pixelated Sheep? Embodied Decision Making using Language Guided World Modelling**](https://arxiv.org/pdf/2301.12050) | ICML 2023 | [Page](https://deckardagent.github.io/) | [Github](https://github.com/DeckardAgent/deckard) |
+| [**Plan-seq-learn: Language model guided rl for solving long horizon robotics tasks**](https://arxiv.org/pdf/2405.01534) | ICLR 2024 | [Page](https://mihdalal.github.io/planseqlearn/) | [Github](https://github.com/mihdalal/planseqlearn) |
+| [**SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments**](https://ojs.aaai.org/index.php/ICAPS/article/download/31506/33666) | AAAI 2024 | [Page](https://www.sri.com/publication/saynav-grounding-large-language-models-for-dynamic-planning-to-navigation-in-new-environments/) | [Github](https://github.com/arajv/SayNav) |
+| [**Learning Neuro-Symbolic Skills for Bilevel Planning**](https://arxiv.org/pdf/2206.10680) | CoRL 2022 | - | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators) |
+| [**Learning Neuro-Symbolic Relational Transition Models for Bilevel Planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981440) | IROS 2022 | - | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators) |
+| [**LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**](https://arxiv.org/pdf/2212.04088) | ICCV 2023 | [Page](https://dki-lab.github.io/LLM-Planner/) | [Github](https://github.com/OSU-NLP-Group/LLM-Planner/) |
+| [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2) | ICCV 2023 | [Page](https://bhkim94.github.io/projects/CAPEAM/) | [Github](https://github.com/snumprlab/capeam) |
 | [**Omnieva: Embodied versatile planner via task-adaptive 3d-grounded and embodiment-aware reasoning**](https://arxiv.org/pdf/2509.09332) | Arxiv | [Page](https://omnieva.github.io/) | - |
 | [**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**](https://arxiv.org/pdf/2509.24163) | Arxiv | - | - |
 | [**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**](https://arxiv.org/pdf/2509.25852) | Arxiv | - | - |
+| [**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**](https://robot-vila.github.io/ViLa.pdf) | Arxiv | [Page](https://robot-vila.github.io/) | - |
 | [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848) | Arxiv | [Page](https://gary3410.github.io/TaPA/) | [Github](https://github.com/Gary3410/TaPA) |
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,6 +212,10 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) 
 | [**EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning**](https://arxiv.org/pdf/2312.06722) | Arxiv | [Page](https://chenyi99.github.io/ego_plan/) | [Github](https://github.com/ChenYi99/EgoPlan) |
 | [**WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning**](https://arxiv.org/pdf/2506.04363) | Arxiv | [Page](https://worldprediction.github.io/) | [Github](https://github.com/fairinternal/WorldPrediction) |
+
+
+SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents
+
 
 
 
