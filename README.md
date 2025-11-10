@@ -124,6 +124,32 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**EMBODIEDBENCH: Comprehensive Benchmarking Multi-modal Large  Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) |
+| [**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**](https://arxiv.org/pdf/2506.22827) | RSS Workshop 2025 | [Page](https://vlp-humanoid.github.io/) | - |
+| [**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**](https://arxiv.org/pdf/2412.17288) | AAAI 2025 | [Page](https://twoongg.github.io/projects/flare/) | [Github](https://github.com/snumprlab/flare) |
+| [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) | CoRL 2024 | [Page](https://pred-agent.github.io/) | [Github](https://github.com/snumprlab/pred) |
+| [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://peihaochen.github.io/files/publications/RILA.pdf) | CVPR 2024 | - | - |
+| [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/pdf/2302.01560) | NeurIPS 2023 | [Page](http://www.craftjarvis.org/) | [Github](https://github.com/CraftJarvis/MC-Planner) |
+
+
+
+| [**Omnieva: Embodied versatile planner via task-adaptive 3d-grounded and embodiment-aware reasoning**](https://arxiv.org/pdf/2509.09332) | Arxiv | [Page](https://omnieva.github.io/) | - |
+| [**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**](https://arxiv.org/pdf/2509.24163) | Arxiv | - | - |
+| [**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**](https://arxiv.org/pdf/2509.25852) | Arxiv | - | - |
+| [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848) | Arxiv | [Page](https://gary3410.github.io/TaPA/) | [Github](https://github.com/Gary3410/TaPA) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Control
