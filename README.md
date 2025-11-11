@@ -166,11 +166,25 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 ### Manipulation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**](https://arxiv.org/pdf/2502.07837) | CoRL 2025 | [Page](https://anonymeskonto.github.io/Web/) | [Github](https://github.com/AnonymesKonto/RoboBERT) |
 | [**π_0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/pdf/2410.24164v3) | RSS 2025 | [Page](https://www.physicalintelligence.company/blog/pi0) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**π_0.5:  a Vision-Language-Action Model with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) | CORL 2025 | [Page](https://www.physicalintelligence.company/blog/pi05) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**](https://robodita.github.io/dita.pdf) | ICCV 2025 | [Page](https://robodita.github.io/) | [Github](https://github.com/RoboDita/Dita) |
+| [**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**](https://arxiv.org/pdf/2504.21530) | CVPR 2025 | [Page](https://robo-ground.github.io/) | [Github](https://github.com/ZzZZCHS/RoboGround) |
+| [**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**](https://arxiv.org/pdf/2312.13139) | ICLR 2024 | [Page](https://gr1-manipulation.github.io/) | [Github](https://github.com/bytedance/GR-1) |
 | [**MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting**](https://www.roboticsproceedings.org/rss20/p062.pdf) | RSS 2024 | [Page](https://moka-manipulation.github.io/) | [Github](https://github.com/moka-manipulation/moka) |
+| [**RT-1: Robotics Transformer for Real-World Control at Scale**](https://arxiv.org/pdf/2212.06817) | RSS 2023 | [Page](https://robotics-transformer1.github.io/) | [Github](https://github.com/google-research/robotics_transformer) |
+| [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) | Technical report | [Page](https://robotics-transformer2.github.io/) | [Github](https://github.com/google-research/robotics_transformer) |
+| [**Octo: An Open-Source Generalist Robot Policy**](https://arxiv.org/pdf/2405.12213) | RSS 2024 | [Page](https://octo-models.github.io/) | [Github](https://github.com/octo-models/octo) |
+| [**VIMA: General Robot Manipulation with Multimodal Prompts**](https://vimalabs.github.io/assets/vima_paper.pdf) | ICML 2023 | [Page](https://vimalabs.github.io/) | [Github](https://github.com/vimalabs/VIMA) |
+
+
+
+
+
+
 | [**Policy Blending and Recombination for Multimodal Contact-Rich Tasks**](https://www.ri.cmu.edu/app/uploads/2021/08/NaritaRAL2021.pdf) | RAL 2021 | - | - |
+
 
 
 
