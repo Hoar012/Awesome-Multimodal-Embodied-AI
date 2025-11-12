@@ -228,7 +228,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-# Benchmarks and Datasets
+# Benchmarks & Datasets
 
 ## Perception
 |  Title  |   Venue  |   Website   |   Code   |
@@ -262,6 +262,11 @@ SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents
 
 
 
+## Control
+
+### Manipulation
+
+### Navigation
 
 
 <!-- # Datasets -->
