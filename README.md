@@ -169,37 +169,40 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**](https://arxiv.org/pdf/2502.19645) | RSS 2026 | [Page](https://openvla-oft.github.io/) | [Github](https://github.com/moojink/openvla-oft) |
 | [**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**](https://arxiv.org/pdf/2508.13103) | AAAI 2026 | - | - |
 | [**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**](https://arxiv.org/pdf/2507.16815) | NeurIPS 2025 | [Page](https://jasper0314-huang.github.io/thinkact-vla/) | - |
+| [**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**](https://arxiv.org/pdf/2506.07961) | NeurIPS 2025 | [Page](https://bridgevla.github.io/) | [Github](https://github.com/BridgeVLA/BridgeVLA) |
+| [**What Can RL Bring to VLA Generalization? An Empirical Study**](https://arxiv.org/pdf/2505.19789) | NeurIPS 2025 | [Page](https://rlvla.github.io/) | [Github](https://github.com/gen-robot/RL4VLA) |
 | [**DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control**](https://arxiv.org/pdf/2502.05855) | CoRL 2025 | [Page](https://dex-vla.github.io/) | [Github](https://github.com/bytenaija/dexvla) |
+| [**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**](https://arxiv.org/pdf/2505.03233) | CoRL 2025 | [Page](https://pku-epic.github.io/GraspVLA-web/) | [Github](https://github.com/PKU-EPIC/GraspVLA) |
 | [**RoboBERT: An End-to-end Multimodal Robotic Manipulation Model**](https://arxiv.org/pdf/2502.07837) | CoRL 2025 | [Page](https://anonymeskonto.github.io/Web/) | [Github](https://github.com/AnonymesKonto/RoboBERT) |
+| [**Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation**](https://long-vla.github.io/long-vla/longvla.pdf) | CoRL 2025 | [Page](https://long-vla.github.io/) | - |
 | [**Learning to Act Anywhere with Task-centric Latent Actions**](https://arxiv.org/pdf/2505.06111) | RSS 2025 | - | [Github](https://github.com/OpenDriveLab/UniVLA) |
+| [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://arxiv.org/pdf/2502.05450) | RSS 2025 | [Page](https://cccedric.github.io/conrft/) | [Github](https://github.com/cccedric/conrft) |
+| [**Gemini Robotics: Bringing AI into the Physical World**](https://arxiv.org/pdf/2503.20020) | Technical report | - | - |
 | [**π_0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/pdf/2410.24164v3) | RSS 2025 | [Page](https://www.physicalintelligence.company/blog/pi0) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**π_0.5:  a Vision-Language-Action Model with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) | CORL 2025 | [Page](https://www.physicalintelligence.company/blog/pi05) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**](https://robodita.github.io/dita.pdf) | ICCV 2025 | [Page](https://robodita.github.io/) | [Github](https://github.com/RoboDita/Dita) |
+| [**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**](https://arxiv.org/pdf/2410.07864) | ICLR 2025 | [Page](https://rdt-robotics.github.io/rdt-robotics/) | [Github](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
+| [**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**](https://arxiv.org/pdf/2503.22020) | CVPR 2025 | [Page](https://cot-vla.github.io/) | - |
 | [**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**](https://arxiv.org/pdf/2504.21530) | CVPR 2025 | [Page](https://robo-ground.github.io/) | [Github](https://github.com/ZzZZCHS/RoboGround) |
 | [**Magma: A Foundation Model for Multimodal AI Agents**](https://www.arxiv.org/pdf/2502.13130) | CVPR 2025 | [Page](https://microsoft.github.io/Magma/) | [Github](https://github.com/microsoft/Magma) |
 | [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) | CoRL 2024 | [Page](https://openvla.github.io/) | [Github](https://github.com/openvla/openvla) |
 | [**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**](https://arxiv.org/pdf/2312.13139) | ICLR 2024 | [Page](https://gr1-manipulation.github.io/) | [Github](https://github.com/bytedance/GR-1) |
+| [**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**](https://arxiv.org/pdf/2410.06158) | Technical report | [Page](https://gr2-manipulation.github.io/) | - |
+| [**GR-3 Technical Report**](https://arxiv.org/pdf/2507.15493) | Technical report | [Page](https://seed.bytedance.com/en/GR3) | - |
 | [**MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting**](https://www.roboticsproceedings.org/rss20/p062.pdf) | RSS 2024 | [Page](https://moka-manipulation.github.io/) | [Github](https://github.com/moka-manipulation/moka) |
 | [**RT-1: Robotics Transformer for Real-World Control at Scale**](https://arxiv.org/pdf/2212.06817) | RSS 2023 | [Page](https://robotics-transformer1.github.io/) | [Github](https://github.com/google-research/robotics_transformer) |
 | [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) | Technical report | [Page](https://robotics-transformer2.github.io/) | [Github](https://github.com/google-research/robotics_transformer) |
 | [**Octo: An Open-Source Generalist Robot Policy**](https://arxiv.org/pdf/2405.12213) | RSS 2024 | [Page](https://octo-models.github.io/) | [Github](https://github.com/octo-models/octo) |
+| [**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**](https://arxiv.org/pdf/2310.08864) | ICRA 2024 | [Page](https://robotics-transformer-x.github.io/) | [Github](https://github.com/google-deepmind/open_x_embodiment) |
 | [**VIMA: General Robot Manipulation with Multimodal Prompts**](https://vimalabs.github.io/assets/vima_paper.pdf) | ICML 2023 | [Page](https://vimalabs.github.io/) | [Github](https://github.com/vimalabs/VIMA) |
 | [**Policy Blending and Recombination for Multimodal Contact-Rich Tasks**](https://www.ri.cmu.edu/app/uploads/2021/08/NaritaRAL2021.pdf) | RAL 2021 | - | - |
 
 
 
+
 <!-- 
-| [****]() | ICML 2023 | [Page]() | [Github]() |
-| [****]() | ICML 2023 | [Page]() | [Github]() |
-| [****]() | ICML 2023 | [Page]() | [Github]() |
-| [****]() | ICML 2023 | [Page]() | [Github]() | -->
-
-
-
-
-
-
-
+| [****]() | ICML 2025 | [Page]() | [Github]() |
+-->
 
 
 
@@ -207,11 +210,22 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 ### Navigation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**NaVILA: Legged Robot Vision-Language-Action Model for Navigation**](https://navila-bot.github.io/static/navila_paper.pdf) | RSS 2025 | [Page](https://navila-bot.github.io/) | [Github](https://github.com/AnjieCheng/NaVILA) |
+| [**Multimodal Spatial Language Maps for Robot Navigation and Manipulation**](https://arxiv.org/pdf/2506.06862) | IJRR 2025 | [Page](https://mslmaps.github.io/) | [Github](https://github.com/vlmaps/VLMaps) |
+| [**ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion**](https://arxiv.org/pdf/2504.14478) | RA-L 2025 | [Page](https://robotics-star.com/ApexNav/) | [Github](https://github.com/Robotics-STAR-Lab/ApexNav) |
+| [**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**](https://arxiv.org/pdf/2505.11350) | CoRL 2025 | [Page](https://search-tta.github.io/) | [Github](https://github.com/marmotlab/Search-TTA-RL-VLN) |
+| [**GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation**](https://arxiv.org/pdf/2509.10454) | CoRL 2025 | [Page](https://bagh2178.github.io/GC-VLN/) | [Github](https://github.com/bagh2178/GC-VLN) |
+| [**RoboTron-Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**](https://arxiv.org/pdf/2503.18525) | ICCV 2025 | [Page](https://yvfengzhong.github.io/RoboTron-Nav/) | [Github](https://github.com/EmbodiedAI-RoboTron/RoboTron-Nav) |
 | [**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**](https://arxiv.org/pdf/2408.11051) | AAAI 2025 | [Page](https://flame-sjtu.github.io/) | [Github](https://github.com/xyz9911/FLAME) |
-| [**SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2503.10069) | IROS 2025 | - | - |
+| [**WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation**](https://arxiv.org/pdf/2503.02247) | IROS 2025 | [Page](https://b0b8k1ng.github.io/WMNav/) | [Github](https://github.com/B0B8K1ng/WMNavigation) |
+| [**SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2503.10069) | IROS 2025 | [Page](https://sxyxs.github.io/smartway/) | - |
+| [**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | RSS 2024 | [Page](https://pku-epic.github.io/NaVid/) | [Github](https://github.com/jzhzhang/NaVid-VLN-CE) |
 | [**LLaDA: Driving Everywhere with Large Language Model Policy Adaptation**](https://arxiv.org/pdf/2402.05932) | CVPR 2024 | [Page](https://boyiliee.github.io/llada/) | [Github](https://github.com/Boyiliee/LLaDA-AV) |
+| [**Adaptive Zone-aware Hierarchical Planner**](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf) | CVPR 2024 | - | [Github](https://github.com/chengaopro/AZHP) |
 
-<!-- ### Diffusion Policy -->
+
+
+
 
 
 # Benchmarks and Datasets
