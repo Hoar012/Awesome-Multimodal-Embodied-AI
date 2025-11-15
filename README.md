@@ -63,7 +63,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 <!-- Template
 |:--------|:--------:|:--------:|:--------:|
-| [**Title**](Paperlink)  | Conference | [Page]( ) | [Github]( ) | -->
+| [**Title**](Paperlink) | Conference | [Page](link) | [Github](link) |
+ -->
 
 <!-- ## Foundation Models -->
 
@@ -73,20 +74,26 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**](https://arxiv.org/pdf/2505.12448?) | NeurIPS 2025 | [Page](https://yliu-cs.github.io/SSR/) | [Github](https://github.com/yliu-cs/SSR) |
+| [**From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D**](https://arxiv.org/pdf/2503.22976) | NeurIPS 2025 | [Page](https://logosroboticsgroup.github.io/SPAR/) | [Github](https://github.com/LogosRoboticsGroup/SPAR) |
 | [**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**](https://arxiv.org/pdf/2506.05285?) | NeurIPS 2025 | [Page](https://rayst3r.github.io/) | [Github](https://github.com/Duisterhof/rayst3r) |
 | [**AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies**](https://arxiv.org/pdf/2508.08113) | NeurIPS 2025 | [Page](https://aimbot-reticle.github.io/) | [Github](https://github.com/aimbot-reticle/openpi0-aimbot) |
+| [**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**](https://arxiv.org/pdf/2408.11811) | ICLR 2025 | [Page](https://xuxw98.github.io/ESAM/) | [Github](https://github.com/xuxw98/ESAM) |
+| [**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**](https://arxiv.org/pdf/2504.11754) | ICLR 2025 | - | [Github](https://github.com/vLAR-group/GrabS) |
 | [**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**](https://arxiv.org/pdf/2411.16537) | CVPR 2025 | [Page](https://chanh.ee/RoboSpatial/) | [Github](https://github.com/NVlabs/RoboSpatial) |
 | [**Do vision-language models represent space and how? evaluating spatial frame of reference under ambiguities**](https://arxiv.org/pdf/2410.17385) | ICLR 2025 | [Page](https://spatial-comfort.github.io/) | [Github](https://github.com/sled-group/COMFORT) |
 | [**Pre-training Auto-regressive Robotic Models with 4D Representations**](https://arxiv.org/pdf/2502.13142) | ICML 2025 | [Page](https://arm4r.github.io/) | [Github](https://github.com/Dantong88/arm4r) |
 | [**Hearing the Slide: Acoustic-Guided Constraint Learning for Fast Non-Prehensile Transport**](https://arxiv.org/pdf/2506.09169) | CASE 2025 | [Page](https://fast-non-prehensile.github.io/) | - |
+| [**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**](https://arxiv.org/pdf/2504.13180)  | Arxiv | [Page](https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/) | [Github](https://github.com/facebookresearch/perception_models) |
 | [**Igniting VLMs toward the Embodied Space**](https://arxiv.org/pdf/2509.11766) | Arxiv | [Page](https://x2robot.com/en/research/68bc2cde8497d7f238dde690) | [Github](https://github.com/X-Square-Robot/wall-x) |
 | [**RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**](https://arxiv.org/pdf/2406.10721) | CoRL 2024 | [Page](https://robo-point.github.io/) | [Github](https://github.com/wentaoyuan/RoboPoint) |
 | [**SonicBoom: Contact Localization Using Array of Microphones**](https://arxiv.org/pdf/2412.09878) | RAL 2024 | [Page](https://iamlab-cmu.github.io/sonicboom/) | [Github](https://github.com/markmlee/vibrotactile_localization) |
+| [**Embodied Uncertainty-Aware Object Segmentation**](https://arxiv.org/pdf/2408.04760) | IROS 2024 | [Page](https://sites.google.com/view/embodied-uncertain-seg) | [Github](https://github.com/FANG-Xiaolin/uncos) |
 | [**RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models**](https://arxiv.org/pdf/2404.04929) | ICML 2024 | [Page](https://aopolin-lv.github.io/RoboMP2.github.io/) | [Github](https://github.com/aopolin-lv/RoboMP2) |
 | [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
 | [**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://arxiv.org/pdf/2312.16170) | CVPR 2024 | [Page](https://tai-wang.github.io/embodiedscan/) | [Github](https://github.com/InternRobotics/EmbodiedScan/tree/main) |
 | [**What’s Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://arxiv.org/pdf/2310.16035.pdf) | NeurIPS 2023 | [Page](https://web.stanford.edu/~joycj/projects/left_neurips_2023.html) | [Github](https://github.com/joyhsu0504/LEFT/tree/main) |
 | [**PACO: Parts and Attributes of Common Objects**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ramanathan_PACO_Parts_and_Attributes_of_Common_Objects_CVPR_2023_paper.pdf) | CVPR 2023 | - | [Github](https://github.com/facebookresearch/paco) |
+| [**Interactron: Embodied Adaptive Object Detection**](https://arxiv.org/pdf/2202.00660) | CVPR 2022 | - | [Github](https://github.com/allenai/interactron) |
 | [**Visuo-Acoustic Hand Pose and Contact Estimation**](https://arxiv.org/pdf/2508.00852) | Arxiv | - | - |
 | [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) | Arxiv | - | - |
 
@@ -139,14 +146,15 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Multimodal Procedural Planning via Dual Text-Image Prompting**](https://aclanthology.org/2024.findings-emnlp.641.pdf) | EMNLP 2024 | - | - |
 | [**Embodied Agent Interface: A Single Line to Evaluate LLMs for Embodied Decision Making**](https://arxiv.org/pdf/2410.07166) | NeurIPS 2024 | [Page](https://embodied-agent-interface.github.io/) | [Github](https://github.com/embodied-agent-interface/embodied-agent-interface) |
 | [**Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following**](https://arxiv.org/pdf/2509.08222) | NeurIPS 2024 | - | - |
+| [**Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld**](https://arxiv.org/pdf/2311.16714) | CVPR 2024 | - | [Github](https://github.com/stevenyangyj/Emma-Alfworld) |
+| [**Plan-seq-learn: Language model guided rl for solving long horizon robotics tasks**](https://arxiv.org/pdf/2405.01534) | ICLR 2024 | [Page](https://mihdalal.github.io/planseqlearn/) | [Github](https://github.com/mihdalal/planseqlearn) |
+| [**SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments**](https://ojs.aaai.org/index.php/ICAPS/article/download/31506/33666) | AAAI 2024 | [Page](https://www.sri.com/publication/saynav-grounding-large-language-models-for-dynamic-planning-to-navigation-in-new-environments/) | [Github](https://github.com/arajv/SayNav) |
 | [**Learning Adaptive Planning Representations with Natural Language Guidance**](https://arxiv.org/pdf/2312.08566.pdf) | ICLR 2024 | [Page](https://concepts-ai.com/p/ada/) | [Github](https://github.com/CatherineWong/llm-operators/) |
 | [**What Planning Problem Can A Relational Neural Network Solve**](https://arxiv.org/pdf/2312.03682.pdf) | NeurIPS 2023 | [Page](https://concepts-ai.com/p/goal-regression-width/) | [Github](https://github.com/concepts-ai/goal-regression-width) |
 | [**Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**](https://arxiv.org/pdf/2302.01560) | NeurIPS 2023 | [Page](http://www.craftjarvis.org/) | [Github](https://github.com/CraftJarvis/MC-Planner) |
 | [**Sayplan: Grounding large language models using 3d scene graphs for scalable robot task planning**](https://arxiv.org/pdf/2307.06135) | CoRL 2023 | [Page](https://sayplan.github.io/) | - |
 | [**Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**](https://grounded-decoding.github.io/paper.pdf) | NeurIPS 2023 | [Page](https://grounded-decoding.github.io/) | - |
 | [**Do Embodied Agents Dream of Pixelated Sheep? Embodied Decision Making using Language Guided World Modelling**](https://arxiv.org/pdf/2301.12050) | ICML 2023 | [Page](https://deckardagent.github.io/) | [Github](https://github.com/DeckardAgent/deckard) |
-| [**Plan-seq-learn: Language model guided rl for solving long horizon robotics tasks**](https://arxiv.org/pdf/2405.01534) | ICLR 2024 | [Page](https://mihdalal.github.io/planseqlearn/) | [Github](https://github.com/mihdalal/planseqlearn) |
-| [**SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments**](https://ojs.aaai.org/index.php/ICAPS/article/download/31506/33666) | AAAI 2024 | [Page](https://www.sri.com/publication/saynav-grounding-large-language-models-for-dynamic-planning-to-navigation-in-new-environments/) | [Github](https://github.com/arajv/SayNav) |
 | [**Learning Neuro-Symbolic Skills for Bilevel Planning**](https://arxiv.org/pdf/2206.10680) | CoRL 2022 | - | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators) |
 | [**Learning Neuro-Symbolic Relational Transition Models for Bilevel Planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981440) | IROS 2022 | - | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators) |
 | [**LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**](https://arxiv.org/pdf/2212.04088) | ICCV 2023 | [Page](https://dki-lab.github.io/LLM-Planner/) | [Github](https://github.com/OSU-NLP-Group/LLM-Planner/) |
@@ -156,6 +164,9 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**](https://arxiv.org/pdf/2509.25852) | Arxiv | - | - |
 | [**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**](https://robot-vila.github.io/ViLa.pdf) | Arxiv | [Page](https://robot-vila.github.io/) | - |
 | [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848) | Arxiv | [Page](https://gary3410.github.io/TaPA/) | [Github](https://github.com/Gary3410/TaPA) |
+
+
+
 
 
 
@@ -200,13 +211,6 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-<!-- 
-| [****]() | ICML 2025 | [Page]() | [Github]() |
--->
-
-
-
-
 ### Navigation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -226,47 +230,134 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-
-
 # Benchmarks & Datasets
 
+<!-- Detection -->
+<!-- Segmentation -->
+<!-- SLAM -->
+<!-- Depth Estimation -->
+<!-- 3D -->
 ## Perception
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [**PhysBench Benchmarking and Enhancing VLMs for Physical World Understanding**](https://arxiv.org/pdf/2501.16411) | ICLR 2025 | [Page](https://physbench.github.io/) | [Github](https://github.com/USC-GVL/PhysBench) |
-| [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
-| [**Ost-bench: Evaluating The Capabilities Of Mllms In Online Spatio-temporal Scene Understanding**](https://arxiv.org/pdf/2507.07984) | Arxiv | [Page](https://rbler1234.github.io/OSTBench.github.io/) | [Github](https://github.com/OpenRobotLab/OST-Bench) |
-| [**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**](https://arxiv.org/pdf/2505.23764) | Arxiv | [Page](https://runsenxu.com/projects/MMSI_Bench/) | [Github](https://github.com/InternRobotics/MMSI-Bench) |
+| [**From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D**](https://arxiv.org/pdf/2503.22976) | NeurIPS 2025 | [Page](https://logosroboticsgroup.github.io/SPAR/) | [Github](https://github.com/LogosRoboticsGroup/SPAR) |
+| [**Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments**](https://arxiv.org/pdf/2408.15503) | CVPR 2025 | - | [Github](https://github.com/suhaisheng/RoboSense) |
+| [**RCP-Bench: Robust Collaborative Perception Framework**](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.pdf) | CVPR 2025 | - | [Github](https://github.com/LuckyDush/RCP-Bench) |
+| [**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models**](https://arxiv.org/pdf/2409.17146v1) | CVPR 2025 | [Page](https://playground.allenai.org/?model=mm-olmo-uber-model-v4-synthetic) | [Github](https://github.com/allenai/molmo) |
+| [**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**](https://arxiv.org/pdf/2505.10696) | IROS 2025 | [Page](https://tartanair.org/tartanground/) | [Github](https://github.com/castacks/tartanairpy) |
+| [**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**](https://arxiv.org/pdf/2506.20566) | ISER 2025 | - | [Github](https://github.com/interaction-lab/HRIBench) |
+| [**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://arxiv.org/pdf/2312.16170) | CVPR 2024 | [Page](https://tai-wang.github.io/embodiedscan/) | [Github](https://github.com/InternRobotics/EmbodiedScan) |
+| [**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**](https://arxiv.org/pdf/2403.11496) | CVPR 2024 | [Page](https://mcdviral.github.io/) | [Github](https://github.com/mcdviral/mcdviral.github.io) |
+| [**MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations**](https://tai-wang.github.io/mmscan/static/paper/MMScan.pdf) | NeurIPS 2024 | [Page](https://tai-wang.github.io/mmscan/) | [Github](https://github.com/InternRobotics/EmbodiedScan) |
+| [**Tiny Robotics Dataset and Benchmark for Continual Object Detection**](https://arxiv.org/pdf/2409.16215) | Arxiv 2024 | - | [Github](https://github.com/pastifra/TiROD_code) |
+| [**Perception Test: A Diagnostic Benchmark for Multimodal Video Models**](https://arxiv.org/pdf/2305.13786) | NeurIPS 2023 | [Page](https://perception-test-challenge.github.io/) | [Github](https://github.com/google-deepmind/perception_test) |
+| [**Robo3D: Towards Robust and Reliable 3D Perception against Corruptions**](https://arxiv.org/pdf/2303.17597) | ICCV 2023 | [Page](https://ldkong.com/Robo3D) | [Github](https://github.com/worldbench/robo3d) |
+| [**Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving**](https://arxiv.org/pdf/2303.11040) | CVPR 2023 | - | [Github](https://github.com/thu-ml/3D_Corruptions_AD) |
+| [**Ost-bench: Evaluating The Capabilities Of Mllms In Online Spatio-temporal Scene Understanding**](https://arxiv.org/pdf/2507.07984) | Arxiv 2025 | [Page](https://rbler1234.github.io/OSTBench.github.io/) | [Github](https://github.com/OpenRobotLab/OST-Bench) |
+| [**A Unified Perception Benchmark for Capacitive Proximity Sensing Towards Safe Human-Robot Collaboration (HRC)**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561224) | ICRA 2021 | - | - |
+| [**JRDB: A Dataset and Benchmark of Egocentric Robot Visual Perception of Humans in Built Environments**](https://arxiv.org/pdf/1910.11792) | TPAMI 2019 | [Page](https://jrdb.erc.monash.edu/) | - |
+| [**BOP: Benchmark for 6D Object Pose Estimation**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tomas_Hodan_PESTO_6D_Object_ECCV_2018_paper.pdf) | ECCV 2018 | [Page](https://bop.felk.cvut.cz/home/) | - |
 
 
 
+
+
+
+<!-- 
+| [****]() | ICML 2025 | [Page]() | [Github]() |
+-->
+<!-- Spatial Reasoning -->
+<!-- Question Answering -->
 ## Reasoning
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) | NeurIPS 2025 | [Page](https://zhoues.github.io/RoboRefer/) | [Github](https://github.com/Zhoues/RoboRefer) |
+| [**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**](https://arxiv.org/pdf/2505.15517) | NeurIPS 2025 | [Page](https://berkeleyautomation.github.io/robo2vlm/) | [Github](https://github.com/KeplerC/robo2VLM) |
+| [**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**](https://arxiv.org/pdf/2504.03164) | ICCV 2025 | [Page](https://taco-group.github.io/NuScenes-SpatialQA/) | [Github](https://github.com/taco-group/NuScenes-SpatialQA) |
 | [**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**](https://arxiv.org/pdf/2503.11117) | ICCV 2025 | [Page](https://hcplab-sysu.github.io/EXPRESS-Bench/) | [Github](https://github.com/HCPLab-SYSU/EXPRESS-Bench) |
+| [**Embodied Reasoning QA Evaluation Dataset**](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf) | Technical report | [Page](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) | [Github](https://github.com/embodiedreasoning/ERQA) |
+| [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | ICRA 2025 | [Page](https://nvidia-ai-iot.github.io/remembr/) | [Github](https://github.com/NVIDIA-AI-IOT/remembr) |
+| [**SpatialBot: Precise Spatial Understanding with Vision Language Models**](https://arxiv.org/pdf/2406.13642) | ICRA 2025 | - | [Github](https://github.com/BAAI-DCAI/SpatialBot) |
+| [**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**](https://arxiv.org/pdf/2412.14171) | CVPR 2025 | [Page](https://vision-x-nyu.github.io/thinking-in-space.github.io/) | [Github](https://github.com/vision-x-nyu/thinking-in-space) |
+| [**PhysBench Benchmarking and Enhancing VLMs for Physical World Understanding**](https://arxiv.org/pdf/2501.16411) | ICLR 2025 | [Page](https://physbench.github.io/) | [Github](https://github.com/USC-GVL/PhysBench) |
 | [**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**](https://arxiv.org/pdf/2506.03135) | Arxiv | [Page](https://qizekun.github.io/omnispatial/) | [Github](https://github.com/qizekun/OmniSpatial) |
-
-
+| [**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**](https://arxiv.org/pdf/2505.23764) | Arxiv 2025 | [Page](https://runsenxu.com/projects/MMSI_Bench/) | [Github](https://github.com/InternRobotics/MMSI-Bench) |
+| [**ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/pdf/2506.09965) | Arxiv 2025 | - | [Github](https://github.com/AntResearchNLP/ViLaSR) |
+| [**SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**](https://arxiv.org/pdf/2406.01584) | NeurIPS 2024 | [Page](https://www.anjiecheng.me/SpatialRGPT) | [Github](https://github.com/AnjieCheng/SpatialRGPT) |
+| [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
+| [**EQA-MX: Embodied Question Answering using Multimodal Expression**](https://openreview.net/pdf?id=7gUrYE50Rb) | ICLR 2024 | - | [Github](https://github.com/mmiakashs/eqa-mx) |
+| [**RoboVQA: Multimodal Long-Horizon Reasoning for Robotics**](https://arxiv.org/pdf/2311.00899) | ICRA 2024 | [Page](https://robovqa.github.io/) | [Github](https://github.com/google-deepmind/robovqa) |
+| [**EgoTaskQA: Understanding Human Tasks in Egocentric Videos**](https://arxiv.org/pdf/2210.03929) | NeurIPS 2022 | [Page](https://sites.google.com/view/egotaskqa) | [Github](https://github.com/Buzz-Beater/EgoTaskQA) |
 
 
 
 ## Planning
+<!-- Planning -->
+<!-- Decision Making -->
+<!-- Agent -->
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) 
-| [**EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning**](https://arxiv.org/pdf/2312.06722) | Arxiv | [Page](https://chenyi99.github.io/ego_plan/) | [Github](https://github.com/ChenYi99/EgoPlan) |
-| [**WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning**](https://arxiv.org/pdf/2506.04363) | Arxiv | [Page](https://worldprediction.github.io/) | [Github](https://github.com/fairinternal/WorldPrediction) |
-
-
-SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents
-
+| [**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench)
+| [**PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**](https://arxiv.org/pdf/2411.00081) | ICLR 2025 | [Page](https://aihabitat.org/partnr) | [Github](https://github.com/facebookresearch/partnr-planner) |
+| [**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**](https://arxiv.org/pdf/2506.04217) | NeurIPS 2025 | - | [Github](https://github.com/HHYHRHY/OWMM-Agent) |
+| [**ET-Plan-Bench: Embodied Task-level Planning Benchmark Towards Spatial-Temporal Cognition with Foundation Models**](https://arxiv.org/pdf/2410.14682) | IROS 2025 | - | [Github](https://github.com/ET-Plan-Bench/ET-Plan-Bench) |
+| [**EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents**](https://arxiv.org/pdf/2501.11858) | Arxiv 2025 | [Page](https://embodiedeval.github.io/) | [Github](https://github.com/thunlp/EmbodiedEval) |
+| [**WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning**](https://arxiv.org/pdf/2506.04363) | Arxiv 2025 | [Page](https://worldprediction.github.io/) | [Github](https://github.com/fairinternal/WorldPrediction) |
+| [**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**](https://arxiv.org/pdf/2410.07166) | NeurIPS 2024 | [Page](https://embodied-agent-interface.github.io/) | [Github](https://github.com/embodied-agent-interface/embodied-agent-interface) |
+| [**Large Language Models as Generalizable Policies for Embodied Tasks**](https://arxiv.org/pdf/2310.17722) | ICLR 2024 | [Page](https://llm-rl.github.io/) | [Github](https://github.com/apple/ml-llarp) |
+| [**LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents**](https://arxiv.org/pdf/2402.08178) | ICLR 2024 | [Page](https://choi-jaewoo.github.io/LoTa-Bench/) | [Github](https://github.com/lbaa2022/LLMTaskPlanning) |
+| [**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**](https://arxiv.org/pdf/2401.12975) | ICLR 2024 | [Page](https://embodied-agi.cs.umass.edu/hazard/) | [Github](https://github.com/UMass-Embodied-AGI/HAZARD) |
+| [**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**](https://arxiv.org/pdf/2407.05047) | Arxiv 2024 | [Page](https://mfe-etp.github.io/) | [Github](https://github.com/TJURLLAB-EAI/MFE-ETP) |
+| [**EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios**](https://arxiv.org/pdf/2412.04447) | Arxiv 2024 | [Page](https://qiulu66.github.io/egoplanbench2/) | [Github](https://github.com/qiulu66/EgoPlan-Bench2/) |
+| [**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**](https://arxiv.org/pdf/2412.13178) | Arxiv 2024 | - | [Github](https://github.com/shengyin1224/SafeAgentBench) |
+| [**EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning**](https://arxiv.org/pdf/2312.06722) | Arxiv 2023 | [Page](https://chenyi99.github.io/ego_plan/) | [Github](https://github.com/ChenYi99/EgoPlan) |
+| [**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**](https://arxiv.org/pdf/2310.13724) | Arxiv 2023 | [Page](https://aihabitat.org/habitat3/) | [Github](https://github.com/facebookresearch/habitat-lab) |
+| [**Habitat 2.0: Training Home Assistants to Rearrange their Habitat**](https://arxiv.org/pdf/2106.14405) | NeurIPS 2021 | [Page](https://sites.google.com/view/habitat2) | [Github](https://github.com/facebookresearch/habitat-lab) |
+| [**ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks**](https://arxiv.org/pdf/1912.01734) | CVPR 2020 | [Page](https://askforalfred.com/) | [Github](https://github.com/askforalfred/alfred) |
+| [**Habitat: A Platform for Embodied AI Research**](https://arxiv.org/pdf/1904.01201) | ICCV 2019 | [Page](https://aihabitat.org/) | [Github](https://github.com/facebookresearch/habitat-lab) |
 
 
 ## Control
 
 ### Manipulation
 
+<!-- Grasp -->
+<!-- Dexterous Hand -->
+<!-- Pick & Place -->
+
+LIBERO
+SIMPLER
+CALVIN
+RLBench
+VLABench
+Robocebera
+robomimic
+robosuite
+Open-X
+2d Grasp
+
+
+RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation
+
+ nuscenes: A multi
+modal dataset for autonomous driving
+
+ Theapolloscape dataset for autonomous driving.
+
+
+ ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation
+
+ MANISKILL-HAB: A BENCHMARK FOR LOW-LEVEL
+ MANIPULATION IN HOME REARRANGEMENT TASKS
+
+
+
+| [**Grasp-Anything: Large-scale Grasp Dataset from Foundation Models**](https://arxiv.org/pdf/2309.09818) | ICRA 2024 | [Page](https://airvlab.github.io/grasp-anything/) | [Github](https://github.com/Fsoft-AIC/Grasp-Anything) |
+
+
 ### Navigation
+
+<!-- Autonomous driving -->
 
 
 <!-- # Datasets -->
