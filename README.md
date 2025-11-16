@@ -319,46 +319,39 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 ## Control
 
-### Manipulation
-
 <!-- Grasp -->
 <!-- Dexterous Hand -->
 <!-- Pick & Place -->
-
-LIBERO
-SIMPLER
-CALVIN
-RLBench
-VLABench
-Robocebera
-robomimic
-robosuite
-Open-X
-2d Grasp
-
-
-RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation
-
- nuscenes: A multi
-modal dataset for autonomous driving
-
- Theapolloscape dataset for autonomous driving.
-
-
- ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation
-
- MANISKILL-HAB: A BENCHMARK FOR LOW-LEVEL
- MANIPULATION IN HOME REARRANGEMENT TASKS
-
-
-
+### Manipulation
+| [**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**](https://arxiv.org/pdf/2412.13877) | RSS 2025 | [Page](https://x-humanoid-robomind.github.io/) | [Github](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io) |
+| [**ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI**](https://arxiv.org/pdf/2410.00425) | RSS 2025 | [Page](https://www.maniskill.ai/) | [Github](https://github.com/haosulab/ManiSkill) |
+| [**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**](https://arxiv.org/pdf/2505.09698) | CoRL 2025 | [Page](https://manipbench.github.io/) | [Github](https://github.com/slurm-lab-usc/ManipBench-Real-Robot-question) |
+| [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://arxiv.org/pdf/2503.06669) | IROS 2025 | [Page](https://agibot-world.com/) | [Github](https://github.com/OpenDriveLab/Agibot-World) |
+| [**RoboCerebra：A Large-scale Benchmark for Long-Horizon Robotic Manipulation Evaluation**](https://www.arxiv.org/pdf/2506.06677) | NeurIPS 2025 | [Page](https://robocerebra.github.io/) | [Github](https://github.com/qiuboxiang/RoboCerebra) |
+| [**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**](https://arxiv.org/pdf/2412.18194) | ICCV 2025 | [Page](https://vlabench.github.io/) | [Github](https://github.com/OpenMOSS/VLABench) |
+| [**DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover**](https://arxiv.org/pdf/2506.23152) | ICCV 2025 | [Page](https://dexh2r.github.io/) | [Github](https://github.com/4DVLab/DexH2R) |
+| [**ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks**](https://arxiv.org/pdf/2412.13211) | ICLR 2025 | [Page](https://arth-shukla.github.io/mshab/) | [Github](https://github.com/arth-shukla/mshab) |
+| [**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**](https://arxiv.org/pdf/2310.08864) | ICRA 2024 | [Page](https://robotics-transformer-x.github.io/) | [Github](https://github.com/google-deepmind/open_x_embodiment) |
+| [**RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot**](https://arxiv.org/pdf/2307.00595) | ICRA 2024 | [Page](https://rh20t.github.io/) | [Github](https://github.com/rh20t/rh20t_api) |
 | [**Grasp-Anything: Large-scale Grasp Dataset from Foundation Models**](https://arxiv.org/pdf/2309.09818) | ICRA 2024 | [Page](https://airvlab.github.io/grasp-anything/) | [Github](https://github.com/Fsoft-AIC/Grasp-Anything) |
+| [**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**](https://robocasa.ai/assets/robocasa_rss24.pdf) | RSS 2024 | [Page](https://robocasa.ai/) | [Github](https://github.com/robocasa/robocasa) |
+| [**SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups**](https://arxiv.org/pdf/2405.05941) | CoRL 2024 | [Page](https://simpler-env.github.io/) | [Github](https://github.com/simpler-env/SimplerEnv) |
+| [**LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning**](https://arxiv.org/pdf/2306.03310) | NeurIPS 2023 | [Page](https://libero-project.github.io/intro.html) | [Github](https://github.com/Lifelong-Robot-Learning/LIBERO) |
+| [**ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes**](https://arxiv.org/pdf/2304.04321) | ICCV 2023 | [Page](https://arnold-benchmark.github.io/) | [Github](https://github.com/arnold-benchmark/arnold) |
+| [**ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills**](https://arxiv.org/pdf/2302.04659) | ICLR 2023 | [Page](https://www.maniskill.ai/) | [Github](https://github.com/haosulab/ManiSkill) |
+| [**CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks**](https://arxiv.org/pdf/2112.03227) | RA-L 2022 | [Page](http://calvin.cs.uni-freiburg.de/) | [Github](https://github.com/mees/calvin) |
+| [**BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation**](https://arxiv.org/pdf/2403.09227) | CoRL 2022 | [Page](https://behavior.stanford.edu/) | [Github](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| [**What Matters in Learning from Offline Human Demonstrations for Robot Manipulation**](https://arxiv.org/pdf/2108.03298) | CoRL 2021 | [Page](https://robomimic.github.io/) | [Github](https://github.com/ARISE-Initiative/robomimic) |
+| [**DexYCB: A Benchmark for Capturing Hand Grasping of Objects**](https://arxiv.org/pdf/2104.04631) | CVPR 2021 | [Page](https://dex-ycb.github.io/) | [Github](https://github.com/NVlabs/dex-ycb-toolkit) |
+| [**RLBench: The Robot Learning Benchmark & Learning Environment**](https://arxiv.org/pdf/1909.12271) | RA-L 2020 | [Page](https://sites.google.com/view/rlbench) | [Github](https://github.com/stepjam/RLBench) |
+| [**robosuite: A Modular Simulation Framework and Benchmark for Robot Learning**](https://arxiv.org/pdf/2009.12293) | Arxiv 2020 | [Page](https://robosuite.ai/) | [Github](https://github.com/ARISE-Initiative/robosuite) |
 
 
-### Navigation
 
 <!-- Autonomous driving -->
-
+### Navigation
+| [**nuScenes: A multimodal dataset for autonomous driving**](https://arxiv.org/pdf/1903.11027) | CVPR 2020 | [Page](https://www.nuscenes.org/) | - |
+| [**The apolloscape open dataset for autonomous driving and its application**](https://arxiv.org/pdf/1803.06184) | TPAMI 2019 | [Page](https://apolloscape.auto/) | [Github](https://github.com/ApolloScapeAuto/dataset-api) |
 
 <!-- # Datasets -->
 
