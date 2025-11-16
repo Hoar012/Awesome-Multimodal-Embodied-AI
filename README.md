@@ -352,6 +352,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 <!-- Autonomous driving -->
 ### Navigation
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
 | [**nuScenes: A multimodal dataset for autonomous driving**](https://arxiv.org/pdf/1903.11027) | CVPR 2020 | [Page](https://www.nuscenes.org/) | - |
 | [**The apolloscape open dataset for autonomous driving and its application**](https://arxiv.org/pdf/1803.06184) | TPAMI 2019 | [Page](https://apolloscape.auto/) | [Github](https://github.com/ApolloScapeAuto/dataset-api) |
 
