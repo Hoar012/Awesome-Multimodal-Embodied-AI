@@ -323,6 +323,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 <!-- Dexterous Hand -->
 <!-- Pick & Place -->
 ### Manipulation
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
 | [**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**](https://arxiv.org/pdf/2412.13877) | RSS 2025 | [Page](https://x-humanoid-robomind.github.io/) | [Github](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io) |
 | [**ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI**](https://arxiv.org/pdf/2410.00425) | RSS 2025 | [Page](https://www.maniskill.ai/) | [Github](https://github.com/haosulab/ManiSkill) |
 | [**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**](https://arxiv.org/pdf/2505.09698) | CoRL 2025 | [Page](https://manipbench.github.io/) | [Github](https://github.com/slurm-lab-usc/ManipBench-Real-Robot-question) |
