@@ -45,7 +45,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 --- -->
 
-## 📋 Table of Contents
+# 📋 Table of Contents
 - [Multimodal-Embodied-AI](#multimodal-embodied-ai)
 - [Papers](#papers)
   - [Perception](#perception)
