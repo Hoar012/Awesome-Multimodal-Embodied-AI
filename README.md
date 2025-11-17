@@ -75,8 +75,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Do vision-language models represent space and how? evaluating spatial frame of reference under ambiguities**](https://arxiv.org/pdf/2410.17385) | ICLR 2025 | [Page](https://spatial-comfort.github.io/) | [Github](https://github.com/sled-group/COMFORT) |
 | [**Pre-training Auto-regressive Robotic Models with 4D Representations**](https://arxiv.org/pdf/2502.13142) | ICML 2025 | [Page](https://arm4r.github.io/) | [Github](https://github.com/Dantong88/arm4r) |
 | [**Hearing the Slide: Acoustic-Guided Constraint Learning for Fast Non-Prehensile Transport**](https://arxiv.org/pdf/2506.09169) | CASE 2025 | [Page](https://fast-non-prehensile.github.io/) | - |
-| [**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**](https://arxiv.org/pdf/2504.13180)  | Arxiv | [Page](https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/) | [Github](https://github.com/facebookresearch/perception_models) |
-| [**Igniting VLMs toward the Embodied Space**](https://arxiv.org/pdf/2509.11766) | Arxiv | [Page](https://x2robot.com/en/research/68bc2cde8497d7f238dde690) | [Github](https://github.com/X-Square-Robot/wall-x) |
+| [**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**](https://arxiv.org/pdf/2504.13180)  | Arxiv 2025 | [Page](https://ai.meta.com/research/publications/perceptionlm-open-access-data-and-models-for-detailed-visual-understanding/) | [Github](https://github.com/facebookresearch/perception_models) |
+| [**Igniting VLMs toward the Embodied Space**](https://arxiv.org/pdf/2509.11766) | Arxiv 2025 | [Page](https://x2robot.com/en/research/68bc2cde8497d7f238dde690) | [Github](https://github.com/X-Square-Robot/wall-x) |
 | [**RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**](https://arxiv.org/pdf/2406.10721) | CoRL 2024 | [Page](https://robo-point.github.io/) | [Github](https://github.com/wentaoyuan/RoboPoint) |
 | [**SonicBoom: Contact Localization Using Array of Microphones**](https://arxiv.org/pdf/2412.09878) | RAL 2024 | [Page](https://iamlab-cmu.github.io/sonicboom/) | [Github](https://github.com/markmlee/vibrotactile_localization) |
 | [**Embodied Uncertainty-Aware Object Segmentation**](https://arxiv.org/pdf/2408.04760) | IROS 2024 | [Page](https://sites.google.com/view/embodied-uncertain-seg) | [Github](https://github.com/FANG-Xiaolin/uncos) |
@@ -86,8 +86,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**What’s Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://arxiv.org/pdf/2310.16035.pdf) | NeurIPS 2023 | [Page](https://web.stanford.edu/~joycj/projects/left_neurips_2023.html) | [Github](https://github.com/joyhsu0504/LEFT/tree/main) |
 | [**PACO: Parts and Attributes of Common Objects**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ramanathan_PACO_Parts_and_Attributes_of_Common_Objects_CVPR_2023_paper.pdf) | CVPR 2023 | - | [Github](https://github.com/facebookresearch/paco) |
 | [**Interactron: Embodied Adaptive Object Detection**](https://arxiv.org/pdf/2202.00660) | CVPR 2022 | - | [Github](https://github.com/allenai/interactron) |
-| [**Visuo-Acoustic Hand Pose and Contact Estimation**](https://arxiv.org/pdf/2508.00852) | Arxiv | - | - |
-| [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) | Arxiv | - | - |
+| [**Visuo-Acoustic Hand Pose and Contact Estimation**](https://arxiv.org/pdf/2508.00852) | Arxiv 2025 | - | - |
+| [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) | Arxiv 2025 | - | - |
 
 
 ### Reasoning
@@ -103,8 +103,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Magma: A Foundation Model for Multimodal AI Agents**](https://www.arxiv.org/pdf/2502.13130) | CVPR 2025 | [Page](https://microsoft.github.io/Magma/) | [Github](https://github.com/microsoft/Magma) |
 | [**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**](https://arxiv.org/pdf/2502.21257) | CVPR 2025 | [Page](https://superrobobrain.github.io/) | [Github](https://github.com/FlagOpen/RoboBrain) |
 | [**RoboBrain 2.0 Technical Report**](https://arxiv.org/pdf/2507.02029) | Technical report | [Page](https://superrobobrain.github.io/) | [Github](https://github.com/FlagOpen/RoboBrain2.0) |
-| [**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**](https://arxiv.org/pdf/2510.11027) | Arxiv | [Page](https://internvl.github.io/blog/2025-10-11-Vlaser/) | [Github](https://github.com/OpenGVLab/Vlaser) |
-| [**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**](https://arxiv.org/pdf/2508.13998) | Arxiv | [Page](https://embodied-r1.github.io/) | [Github](https://github.com/pickxiguapi/Embodied-R1) |
+| [**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**](https://arxiv.org/pdf/2510.11027) | Arxiv 2025 | [Page](https://internvl.github.io/blog/2025-10-11-Vlaser/) | [Github](https://github.com/OpenGVLab/Vlaser) |
+| [**Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation**](https://arxiv.org/pdf/2508.13998) | Arxiv 2025 | [Page](https://embodied-r1.github.io/) | [Github](https://github.com/pickxiguapi/Embodied-R1) |
 | [**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**](https://arxiv.org/pdf/2503.08481) | CVPR 2025 | - | [Github](https://github.com/unira-zwj/PhysVLM?tab=readme-ov-file) |
 | [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) | ICRA 2025 | [Page](https://nvidia-ai-iot.github.io/remembr/) | [Github](https://github.com/NVIDIA-AI-IOT/remembr) |
 | [**InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning**](https://zifuwan.github.io/InstructPart/static/pdfs/ACL_2025_InstructPart.pdf) | ACL 2025 | [Page](https://zifuwan.github.io/InstructPart/) | [Github](https://github.com/zifuwan/InstructPart/tree/dataset) |
@@ -114,8 +114,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**EQA-MX: Embodied Question Answering using Multimodal Expression**](https://openreview.net/pdf?id=7gUrYE50Rb) | ICLR 2024 | - | [Github](https://github.com/mmiakashs/eqa-mx) |
 | [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://openreview.net/pdf?id=7gUrYE50Rb) | NeurIPS 2023 | [Page](https://embodiedgpt.github.io/) | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) |
 | [**Inner Monologue: Embodied Reasoning through Planning with Language Models**](https://arxiv.org/pdf/2207.05608) | CoRL 2022 | [Page](https://innermonologue.github.io/) | - |
-| [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://arxiv.org/pdf/2407.08693) | Arxiv | [Page](https://embodied-cot.github.io/) | [Github](https://github.com/MichalZawalski/embodied-CoT) |
-| [**Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/pdf/2505.08243) | Arxiv | [Page](https://ecot-lite.github.io/) | - |
+| [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://arxiv.org/pdf/2407.08693) | Arxiv 2024 | [Page](https://embodied-cot.github.io/) | [Github](https://github.com/MichalZawalski/embodied-CoT) |
+| [**Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/pdf/2505.08243) | Arxiv 2025 | [Page](https://ecot-lite.github.io/) | - |
 
 
 ### Planning
@@ -151,11 +151,11 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Learning Neuro-Symbolic Relational Transition Models for Bilevel Planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981440) | IROS 2022 | - | [Github](https://github.com/Learning-and-Intelligent-Systems/predicators) |
 | [**LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**](https://arxiv.org/pdf/2212.04088) | ICCV 2023 | [Page](https://dki-lab.github.io/LLM-Planner/) | [Github](https://github.com/OSU-NLP-Group/LLM-Planner/) |
 | [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2) | ICCV 2023 | [Page](https://bhkim94.github.io/projects/CAPEAM/) | [Github](https://github.com/snumprlab/capeam) |
-| [**Omnieva: Embodied versatile planner via task-adaptive 3d-grounded and embodiment-aware reasoning**](https://arxiv.org/pdf/2509.09332) | Arxiv | [Page](https://omnieva.github.io/) | - |
-| [**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**](https://arxiv.org/pdf/2509.24163) | Arxiv | - | - |
-| [**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**](https://arxiv.org/pdf/2509.25852) | Arxiv | - | - |
-| [**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**](https://robot-vila.github.io/ViLa.pdf) | Arxiv | [Page](https://robot-vila.github.io/) | - |
-| [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848) | Arxiv | [Page](https://gary3410.github.io/TaPA/) | [Github](https://github.com/Gary3410/TaPA) |
+| [**Omnieva: Embodied versatile planner via task-adaptive 3d-grounded and embodiment-aware reasoning**](https://arxiv.org/pdf/2509.09332) | Arxiv 2025 | [Page](https://omnieva.github.io/) | - |
+| [**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**](https://arxiv.org/pdf/2509.24163) | Arxiv 2025 | - | - |
+| [**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**](https://arxiv.org/pdf/2509.25852) | Arxiv 2025 | - | - |
+| [**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**](https://robot-vila.github.io/ViLa.pdf) | Arxiv 2023 | [Page](https://robot-vila.github.io/) | - |
+| [**Embodied Task Planning with Large Language Models**](https://arxiv.org/pdf/2307.01848) | Arxiv 2023 | [Page](https://gary3410.github.io/TaPA/) | [Github](https://github.com/Gary3410/TaPA) |
 
 
 
@@ -272,7 +272,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**SpatialBot: Precise Spatial Understanding with Vision Language Models**](https://arxiv.org/pdf/2406.13642) | ICRA 2025 | - | [Github](https://github.com/BAAI-DCAI/SpatialBot) |
 | [**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**](https://arxiv.org/pdf/2412.14171) | CVPR 2025 | [Page](https://vision-x-nyu.github.io/thinking-in-space.github.io/) | [Github](https://github.com/vision-x-nyu/thinking-in-space) |
 | [**PhysBench Benchmarking and Enhancing VLMs for Physical World Understanding**](https://arxiv.org/pdf/2501.16411) | ICLR 2025 | [Page](https://physbench.github.io/) | [Github](https://github.com/USC-GVL/PhysBench) |
-| [**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**](https://arxiv.org/pdf/2506.03135) | Arxiv | [Page](https://qizekun.github.io/omnispatial/) | [Github](https://github.com/qizekun/OmniSpatial) |
+| [**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**](https://arxiv.org/pdf/2506.03135) | Arxiv 2025 | [Page](https://qizekun.github.io/omnispatial/) | [Github](https://github.com/qizekun/OmniSpatial) |
 | [**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**](https://arxiv.org/pdf/2505.23764) | Arxiv 2025 | [Page](https://runsenxu.com/projects/MMSI_Bench/) | [Github](https://github.com/InternRobotics/MMSI-Bench) |
 | [**ViLaSR: Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**](https://arxiv.org/pdf/2506.09965) | Arxiv 2025 | - | [Github](https://github.com/AntResearchNLP/ViLaSR) |
 | [**SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**](https://arxiv.org/pdf/2406.01584) | NeurIPS 2024 | [Page](https://www.anjiecheng.me/SpatialRGPT) | [Github](https://github.com/AnjieCheng/SpatialRGPT) |
@@ -405,3 +405,10 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 |:-----|:-----:|:----:|:-----:|
 | **IMAD** | [IMAD: IMage-Augmented multi-modal Dialogue](https://arxiv.org/pdf/2305.10512.pdf) | [Link](https://github.com/VityaVitalich/IMAD) | Multimodal dialogue dataset|
 | **Video-ChatGPT** | [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424.pdf) | [Link](https://github.com/mbzuai-oryx/Video-ChatGPT#quantitative-evaluation-bar_chart) | A quantitative evaluation framework for video-based dialogue models | -->
+
+<!-- 
+🚀Shared a curated list of papers, benchmarks, and datasets at the intersection of multimodal learning, embodied AI, and robotics. https://github.com/Hoar012/Awesome-Multimodal-Embodied-AI.  
+
+Continuously updated 🔥
+Community contributions are welcome!
+ -->
