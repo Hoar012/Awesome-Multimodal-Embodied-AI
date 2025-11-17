@@ -1,4 +1,4 @@
-# Multimodal-Embodied-AI
+# ⚙️ Multimodal-Embodied-AI
 
 This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning, embodied AI and robotics.
 
@@ -45,7 +45,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 --- -->
 
-# 📋 Table of Contents
+## 📋 Table of Contents
 - [Multimodal-Embodied-AI](#multimodal-embodied-ai)
 - [Papers](#papers)
   - [Perception](#perception)
@@ -61,7 +61,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
   - [Control](#control-1)
     - [Manipulation](#manipulation-1)
     - [Navigation](#navigation-1)
-# 📄 Papers
+## 📄 Papers
 
 <!-- Template
 |:--------|:--------:|:--------:|:--------:|
@@ -71,7 +71,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 <!-- ## Foundation Models -->
 
 
-## Perception
+### Perception
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**](https://arxiv.org/pdf/2505.12448?) | NeurIPS 2025 | [Page](https://yliu-cs.github.io/SSR/) | [Github](https://github.com/yliu-cs/SSR) |
@@ -99,7 +99,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) | Arxiv | - | - |
 
 
-## Reasoning
+### Reasoning
 
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -127,7 +127,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/pdf/2505.08243) | Arxiv | [Page](https://ecot-lite.github.io/) | - |
 
 
-## Planning
+### Planning
 
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -173,9 +173,9 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-## Control
+### Control
 
-### Manipulation
+#### Manipulation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**](https://arxiv.org/pdf/2502.19645) | RSS 2026 | [Page](https://openvla-oft.github.io/) | [Github](https://github.com/moojink/openvla-oft) |
@@ -212,7 +212,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-### Navigation
+#### Navigation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**NaVILA: Legged Robot Vision-Language-Action Model for Navigation**](https://navila-bot.github.io/static/navila_paper.pdf) | RSS 2025 | [Page](https://navila-bot.github.io/) | [Github](https://github.com/AnjieCheng/NaVILA) |
@@ -231,14 +231,14 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-# 📊 Benchmarks & Datasets
+## 📊 Benchmarks & Datasets
 
 <!-- Detection -->
 <!-- Segmentation -->
 <!-- SLAM -->
 <!-- Depth Estimation -->
 <!-- 3D -->
-## Perception
+### Perception
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D**](https://arxiv.org/pdf/2503.22976) | NeurIPS 2025 | [Page](https://logosroboticsgroup.github.io/SPAR/) | [Github](https://github.com/LogosRoboticsGroup/SPAR) |
@@ -269,7 +269,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 -->
 <!-- Spatial Reasoning -->
 <!-- Question Answering -->
-## Reasoning
+### Reasoning
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) | NeurIPS 2025 | [Page](https://zhoues.github.io/RoboRefer/) | [Github](https://github.com/Zhoues/RoboRefer) |
@@ -292,7 +292,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-## Planning
+### Planning
 <!-- Planning -->
 <!-- Decision Making -->
 <!-- Agent -->
@@ -318,12 +318,12 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Habitat: A Platform for Embodied AI Research**](https://arxiv.org/pdf/1904.01201) | ICCV 2019 | [Page](https://aihabitat.org/) | [Github](https://github.com/facebookresearch/habitat-lab) |
 
 
-## Control
+### Control
 
 <!-- Grasp -->
 <!-- Dexterous Hand -->
 <!-- Pick & Place -->
-### Manipulation
+#### Manipulation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation**](https://arxiv.org/pdf/2412.13877) | RSS 2025 | [Page](https://x-humanoid-robomind.github.io/) | [Github](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io) |
@@ -375,7 +375,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 <!-- Autonomous driving -->
 <!-- Vision-Language-Navigation -->
-### Navigation
+#### Navigation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**](https://arxiv.org/pdf/2501.04003) | ICCV 2025 | [Page](https://drive-bench.github.io/) | [Github](https://github.com/worldbench/drivebench) |
