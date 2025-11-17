@@ -1,6 +1,6 @@
 # ⚙️ Multimodal-Embodied-AI
 
-This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning, embodied AI, and robotics.
+This repository collects papers, benchmarks, and datasets at the intersection of **multimodal learning**, **embodied AI**, and **robotics**.
 
 It is continuously updated 🔥🔥. Contributions and suggestions from the community are highly welcome.
 
