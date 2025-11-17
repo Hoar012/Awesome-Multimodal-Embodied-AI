@@ -47,20 +47,21 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 ## 📋 Table of Contents
 - [Multimodal-Embodied-AI](#multimodal-embodied-ai)
-- [Papers](#papers)
+- [📄 Papers](#-papers)
   - [Perception](#perception)
   - [Reasoning](#reasoning)
   - [Planning](#planning)
   - [Control](#control)
     - [Manipulation](#manipulation)
     - [Navigation](#navigation)
-- [Benchmarks and Datasets](#benchmarks-and-datasets)
+- [📊 Benchmarks & Datasets](#-benchmarks-and-datasets)
   - [Perception](#perception-1)
   - [Reasoning](#reasoning-1)
   - [Planning](#planning-1)
   - [Control](#control-1)
     - [Manipulation](#manipulation-1)
     - [Navigation](#navigation-1)
+    
 ## 📄 Papers
 
 <!-- Template
