@@ -44,9 +44,9 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 <font size=7><div align='center' > Process more than **4K frames** or over **1M visual tokens**. State-of-the-art on Video-MME under 20B models!  ✨ </div></font>
 
 --- -->
-
+@[toc]
 ## 📋 Table of Contents
-- [Multimodal-Embodied-AI](#multimodal-embodied-ai)
+- [⚙️ Multimodal-Embodied-AI](#multimodal-embodied-ai)
 - [📄 Papers](#-papers)
   - [Perception](#perception)
   - [Reasoning](#reasoning)
