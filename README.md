@@ -45,7 +45,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 --- -->
 
-<font size=5><center><b> Table of Contents </b> </center></font>
+##<b> 📋 Table of Contents </b>
 - [Multimodal-Embodied-AI](#multimodal-embodied-ai)
 - [Papers](#papers)
   - [Perception](#perception)
@@ -72,7 +72,6 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 ## Perception
-
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**](https://arxiv.org/pdf/2505.12448?) | NeurIPS 2025 | [Page](https://yliu-cs.github.io/SSR/) | [Github](https://github.com/yliu-cs/SSR) |
