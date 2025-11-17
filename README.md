@@ -1,8 +1,10 @@
 # ⚙️ Multimodal-Embodied-AI
 
-This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning, embodied AI and robotics.
+This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning, embodied AI, and robotics.
 
-Continuously updating🔥🔥.
+It is continuously updated 🔥🔥. Contributions and suggestions from the community are highly welcome.
+
+
 <!-- <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
 </p>
@@ -33,22 +35,10 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 ---
-
-🔥🔥🔥 **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
-<p align="center">
-    <img src="./images/longvita.jpg" width="80%" height="80%">
-</p>
-
-<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.05177)] [[🌟 GitHub](https://github.com/VITA-MLLM/Long-VITA)]</div></font>  
-
-<font size=7><div align='center' > Process more than **4K frames** or over **1M visual tokens**. State-of-the-art on Video-MME under 20B models!  ✨ </div></font>
-
---- -->
+-->
 
 
 ## 📋 Table of Contents    
-- [⚙️ Multimodal-Embodied-AI](#-multimodal-embodied-ai)
-  * [📋 Table of Contents](#-table-of-contents)
   * [📄 Papers](#-papers)
     + [Perception](#perception)
     + [Reasoning](#reasoning)
@@ -72,8 +62,6 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
  -->
 
 <!-- ## Foundation Models -->
-
-
 ### Perception
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
