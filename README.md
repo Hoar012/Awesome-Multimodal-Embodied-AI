@@ -61,7 +61,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
   - [Control](#control-1)
     - [Manipulation](#manipulation-1)
     - [Navigation](#navigation-1)
-# Papers
+# 📄 Papers
 
 <!-- Template
 |:--------|:--------:|:--------:|:--------:|
@@ -231,7 +231,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-# Benchmarks & Datasets
+# 📊 Benchmarks & Datasets
 
 <!-- Detection -->
 <!-- Segmentation -->
