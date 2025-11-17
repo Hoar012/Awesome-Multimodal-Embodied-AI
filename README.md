@@ -58,7 +58,9 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
   - [Perception](#perception-1)
   - [Reasoning](#reasoning-1)
   - [Planning](#planning-1)
-
+  - [Control](#control-1)
+    - [Manipulation](#manipulation-1)
+    - [Navigation](#navigation-1)
 # Papers
 
 <!-- Template
