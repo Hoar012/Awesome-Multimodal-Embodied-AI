@@ -54,7 +54,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
   - [Control](#control)
     - [Manipulation](#manipulation)
     - [Navigation](#navigation)
-- [📊 Benchmarks & Datasets](#-benchmarks-and-datasets)
+- [📊 Benchmarks & Datasets](#-benchmarks-&-datasets)
   - [Perception](#perception-1)
   - [Reasoning](#reasoning-1)
   - [Planning](#planning-1)
