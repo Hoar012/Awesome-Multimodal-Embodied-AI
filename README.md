@@ -44,24 +44,26 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 <font size=7><div align='center' > Process more than **4K frames** or over **1M visual tokens**. State-of-the-art on Video-MME under 20B models!  ✨ </div></font>
 
 --- -->
-@[toc]
-## 📋 Table of Contents
-- [⚙️ Multimodal-Embodied-AI](#multimodal-embodied-ai)
-- [📄 Papers](#-papers)
-  - [Perception](#perception)
-  - [Reasoning](#reasoning)
-  - [Planning](#planning)
-  - [Control](#control)
-    - [Manipulation](#manipulation)
-    - [Navigation](#navigation)
-- [📊 Benchmarks & Datasets](#-benchmarks-&-datasets)
-  - [Perception](#perception-1)
-  - [Reasoning](#reasoning-1)
-  - [Planning](#planning-1)
-  - [Control](#control-1)
-    - [Manipulation](#manipulation-1)
-    - [Navigation](#navigation-1)
-    
+
+
+## 📋 Table of Contents    
+- [⚙️ Multimodal-Embodied-AI](#---multimodal-embodied-ai)
+  * [📋 Table of Contents](#---table-of-contents)
+  * [📄 Papers](#---papers)
+    + [Perception](#perception)
+    + [Reasoning](#reasoning)
+    + [Planning](#planning)
+    + [Control](#control)
+      - [Manipulation](#manipulation)
+      - [Navigation](#navigation)
+  * [📊 Benchmarks & Datasets](#---benchmarks---datasets)
+    + [Perception](#perception-1)
+    + [Reasoning](#reasoning-1)
+    + [Planning](#planning-1)
+    + [Control](#control-1)
+      - [Manipulation](#manipulation-1)
+      - [Navigation](#navigation-1)
+
 ## 📄 Papers
 
 <!-- Template
