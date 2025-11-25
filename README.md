@@ -126,6 +126,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Embodied large language models enable robots to complete complex tasks in unpredictable environments**](https://www.nature.com/articles/s42256-025-01005-x.pdf) | Nature Machine Intelligence 2025 | - | - |
 | [**DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models**](https://arxiv.org/pdf/2404.03275) | ICRA 2025 | [Page](https://delta-llm.github.io/) | [Github](https://github.com/boschresearch/DELTA) |
 | [**MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents**](https://arxiv.org/pdf/2410.03450) | ICLR 2025 | - | - |
+| [**Learning for Long-Horizon Planning via Neuro-Symbolic Abductive Imitation**](https://arxiv.org/pdf/2411.18201) | KDD 2025 | [Page](https://www.lamda.nju.edu.cn/shaojj/KDD25_ABIL/) | [Github](https://github.com/Hoar012/ABIL-KDD-2025) |
 | [**Multimodal LLM Guided Exploration and Active Mapping using Fisher Information**](https://openaccess.thecvf.com/content/ICCV2025/papers/Jiang_Multimodal_LLM_Guided_Exploration_and_Active_Mapping_using_Fisher_Information_ICCV_2025_paper.pdf) | ICCV 2025 | - | - |
 | [**Open-World Planning via Lifted Regression with LLM-Inferred Affordances for Embodied Agents**](https://aclanthology.org/2025.acl-long.1018.pdf) | ACL 2025 | - | - |
 | [**Structured Preference Optimization for Vision-Language Long-Horizon Task Planning**](https://aclanthology.org/2025.emnlp-main.884.pdf) | EMNLP 2025 | - | - |
@@ -183,6 +184,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**Gemini Robotics: Bringing AI into the Physical World**](https://arxiv.org/pdf/2503.20020) | Technical report | - | - |
 | [**π_0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/pdf/2410.24164v3) | RSS 2025 | [Page](https://www.physicalintelligence.company/blog/pi0) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**π_0.5:  a Vision-Language-Action Model with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) | CORL 2025 | [Page](https://www.physicalintelligence.company/blog/pi05) | [Github](https://github.com/Physical-Intelligence/openpi) |
+| [**π^*0.6: a VLA that Learns from Experience**](https://arxiv.org/pdf/2511.14759) | Arxiv 2025 | [Page](https://www.pi.website/blog/pistar06) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**](https://robodita.github.io/dita.pdf) | ICCV 2025 | [Page](https://robodita.github.io/) | [Github](https://github.com/RoboDita/Dita) |
 | [**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**](https://arxiv.org/pdf/2410.07864) | ICLR 2025 | [Page](https://rdt-robotics.github.io/rdt-robotics/) | [Github](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
 | [**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**](https://arxiv.org/pdf/2503.22020) | CVPR 2025 | [Page](https://cot-vla.github.io/) | - |
