@@ -4,6 +4,7 @@ This repository collects papers, benchmarks, and datasets at the intersection of
 
 It is continuously updated 🔥🔥. Contributions and suggestions from the community are highly welcome.
 
+<!-- TODO: Update papers from ICRA 2026, ICLR 2026 and CVPR 2026. -->
 
 <!-- <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
@@ -39,18 +40,20 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 ## 📋 Table of Contents    
-  * [📄 Papers](#-papers)
-    + [Perception](#perception)
-    + [Reasoning](#reasoning)
-    + [Planning](#planning)
-    + [Control](#control)
+- [⚙️ Multimodal-Embodied-AI](#️-multimodal-embodied-ai)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [📄 Papers](#-papers)
+    - [Perception](#perception)
+    - [Reasoning](#reasoning)
+    - [Planning](#planning)
+    - [Control](#control)
       - [Manipulation](#manipulation)
       - [Navigation](#navigation)
-  * [📊 Benchmarks and Datasets](#-benchmarks-and-datasets)
-    + [Perception](#perception-1)
-    + [Reasoning](#reasoning-1)
-    + [Planning](#planning-1)
-    + [Control](#control-1)
+  - [📊 Benchmarks and Datasets](#-benchmarks-and-datasets)
+    - [Perception](#perception-1)
+    - [Reasoning](#reasoning-1)
+    - [Planning](#planning-1)
+    - [Control](#control-1)
       - [Manipulation](#manipulation-1)
       - [Navigation](#navigation-1)
 
