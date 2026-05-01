@@ -4,7 +4,8 @@ This repository collects papers, benchmarks, and datasets at the intersection of
 
 It is continuously updated 🔥🔥. Contributions and suggestions from the community are highly welcome.
 
-<!-- TODO: Update papers from ICRA 2026, ICLR 2026 and CVPR 2026. -->
+<!-- TODO: Update papers from ICRA 2026, ICLR 2026, CVPR 2026, ICML 2026. -->
+<!-- TODO: Update our papers. -->
 
 <!-- <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
