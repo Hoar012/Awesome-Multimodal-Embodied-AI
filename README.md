@@ -375,6 +375,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 #### Navigation
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions**](https://arxiv.org/pdf/2510.08173) | ICRA 2026 | [Page](https://navspace.github.io/) | [Github](https://github.com/TidalHarley/NavSpace) |
 | [**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**](https://arxiv.org/pdf/2501.04003) | ICCV 2025 | [Page](https://drive-bench.github.io/) | [Github](https://github.com/worldbench/drivebench) |
 | [**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**](https://arxiv.org/pdf/2412.09082) | CVPR 2025 | [Page](https://hcplab-sysu.github.io/LH-VLN/) | [Github](https://github.com/HCPLab-SYSU/LH-VLN) |
 | [**OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**](https://arxiv.org/pdf/2405.01533) | CVPR 2025 | [Page](https://research.nvidia.com/labs/lpr/publication/wang2024omnidrive/) | [Github](https://github.com/NVlabs/OmniDrive) |
