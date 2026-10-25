@@ -197,9 +197,11 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 | [**Learning to Act Anywhere with Task-centric Latent Actions**](https://arxiv.org/pdf/2505.06111) | RSS 2025 | - | [Github](https://github.com/OpenDriveLab/UniVLA) |
 | [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://arxiv.org/pdf/2502.05450) | RSS 2025 | [Page](https://cccedric.github.io/conrft/) | [Github](https://github.com/cccedric/conrft) |
 | [**Gemini Robotics: Bringing AI into the Physical World**](https://arxiv.org/pdf/2503.20020) | Technical report | - | - |
+| [**Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer**](https://arxiv.org/pdf/2510.03342) | Technical report | - | - |
 | [**π_0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/pdf/2410.24164v3) | RSS 2025 | [Page](https://www.physicalintelligence.company/blog/pi0) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**π_0.5:  a Vision-Language-Action Model with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) | CORL 2025 | [Page](https://www.physicalintelligence.company/blog/pi05) | [Github](https://github.com/Physical-Intelligence/openpi) |
 | [**π^*0.6: a VLA that Learns from Experience**](https://arxiv.org/pdf/2511.14759) | Arxiv 2025 | [Page](https://www.pi.website/blog/pistar06) | [Github](https://github.com/Physical-Intelligence/openpi) |
+| [**SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**](https://arxiv.org/pdf/2506.01844) | Arxiv 2025 | - | [Github](https://github.com/huggingface/lerobot) |
 | [**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**](https://robodita.github.io/dita.pdf) | ICCV 2025 | [Page](https://robodita.github.io/) | [Github](https://github.com/RoboDita/Dita) |
 | [**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**](https://arxiv.org/pdf/2410.07864) | ICLR 2025 | [Page](https://rdt-robotics.github.io/rdt-robotics/) | [Github](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
 | [**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**](https://arxiv.org/pdf/2503.22020) | CVPR 2025 | [Page](https://cot-vla.github.io/) | - |
